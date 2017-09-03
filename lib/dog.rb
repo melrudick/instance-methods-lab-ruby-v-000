@@ -6,6 +6,6 @@ class Dog
   end
 end
 
-# fido = Dog.new
-# fido.bark
-# fido.sit
+fido = Dog.new
+fido.bark
+fido.sit
